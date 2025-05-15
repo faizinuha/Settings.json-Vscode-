@@ -1,0 +1,260 @@
+// edit background Line 23 
+// ctrl+p > settings.json
+{
+  "[blade]": {
+    "breadcrumbs.showKeys": true,
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+  },
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "accessibility.dimUnfocused.enabled": true,
+  "background.fullscreen": {
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/829/555/728/anime-anime-girls-white-skin-izumi-sagiri-wallpaper-preview.jpg"
+    ],
+    "interval": 0,
+    "opacity": 0.1,
+    "position": "center",
+    "random": false,
+    "size": "cover",
+    "quality" : "4K"
+  },
+  "chat.editing.alwaysSaveWithGeneratedChanges": true,
+  "chat.editing.confirmEditRequestRetry": false,
+  "code-runner.runInTerminal": true,
+  "composer.workingPath": "vendor/",
+  "console-ninja.featureSet": "Community",
+  "debug.disassemblyView.showSourceCode": false,
+  "diffEditor.codeLens": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "doki.background.enabled": false,
+  "doki.sticker.path": "C:\\Users\\alex\\Downloads\\aqua_celebration.gif",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.codeActionsOnSave": {
+    "source": "explicit"
+  },
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "block",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.experimental.asyncTokenization": false,
+  "editor.fontFamily": "JetBrains Mono, Fira Code, Consolas, 'Courier New', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.fontWeight": "normal",
+  "editor.formatOnType": true,
+  "editor.guides.bracketPairs": true,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.inlineSuggest.edits.showCollapsed": true,
+  "editor.language.brackets": [],
+  "editor.language.colorizedBracketPairs": [],
+  "editor.lineHeight": 3.2,
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.size": "fit",
+  "editor.mouseWheelZoom": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.quickSuggestions": {
+    "comments": false,
+    "other": true,
+    "strings": true
+  },
+  "editor.quickSuggestionsDelay": 1,
+  "editor.renderLineHighlightOnlyWhenFocus": true,
+  "editor.semanticHighlighting.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.snippetSuggestions": "bottom",
+  "editor.stickyScroll.enabled": false,
+  "editor.suggest.localityBonus": true,
+  "editor.suggest.shareSuggestSelections": true,
+  "editor.suggest.showVariables": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": true,
+  "editor.suggest.statusBar.visible": true,
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 3,
+  "emmet.preferences": {
+    "css": "css",
+    "html": "html",
+    "jsx": "jsx",
+    "typescript": "typescript",
+    "typescriptreact": "typescriptreact",
+    "vue": "vue"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.useInlineCompletions": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmPasteNative": false,
+  "extensions.allowed": {
+    "*": true
+  },
+  "files.autoGuessEncoding": true,
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true,
+    "**/node_modules": true
+  },
+  "files.trimFinalNewlines": true,
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.autofetch": true,
+  "git.branchRandomName.dictionary": [
+    "adjectives",
+    "animals",
+    "adjectives"
+  ],
+  "git.confirmSync": false,
+  "git.openDiffOnClick": false,
+  "git.openRepositoryInParentFolders": "never",
+  "git.showInlineOpenFileAction": false,
+  "git.suggestSmartCommit": false,
+  "github.codespaces.showPerformanceExplorer": true,
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "plaintext": true,
+    "scminput": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "github.copilot.selectedCompletionModel": "",
+  "githubPullRequests.createOnPublishBranch": "never",
+  "gitlens.views.scm.grouped.views": {
+    "branches": true,
+    "commits": true,
+    "contributors": true,
+    "launchpad": false,
+    "remotes": true,
+    "repositories": true,
+    "searchAndCompare": false,
+    "stashes": true,
+    "tags": true,
+    "worktrees": true
+  },
+  "gutterpreview.imagePreviewMaxHeight": 20,
+  "html-css-class-completion.enableEmmetSupport": true,
+  "html-css-class-completion.JavaScriptLanguages": [
+    "javascript",
+    "javascriptreact",
+    "typescriptreact"
+  ],
+  "intelephense.environment.includePaths": [
+    "vendor/laravel/framework/src/"
+  ],
+  "java.edit.validateAllOpenBuffersOnChanges": true,
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.suggest.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "jupyter.logging.level": "error",
+  "kawaiiCode.aiPartnerEnabled": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "notebook.output.lineHeight": 2.3,
+  "php.problems.exclude": {
+    "/": [
+      "PHP0413"
+    ]
+  },
+  "prettier.bracketSameLine": true,
+  "python.createEnvironment.trigger": "off",
+  "quokka.automaticRestart": true,
+  "quokka.colors": {
+    "covered": "#62b455",
+    "errorPath": "#ffa0a0",
+    "errorSource": "#fe536a",
+    "notCovered": "#cccccc",
+    "partiallyCovered": "#d2a032",
+    "successful": "#ff0021",
+    "type": "#000"
+  },
+  "RainbowBrackets.depreciation-notice": false,
+  "redhat.telemetry.enabled": true,
+  "remote.portsAttributes": {
+    "8888": {
+      "protocol": "http"
+    }
+  },
+  "search.exclude": {
+    "**/bower_components": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/node_modules": true
+  },
+  "svelte.enable-ts-plugin": true,
+  "tabnine.debounceMilliseconds": 1,
+  "tabnine.experimentalAutoImports": true,
+  "tailwindCSS.emmetCompletions": true,
+  "terminal.integrated.automationProfile.linux": null,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.defaultProfile.windows": "laragon",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.integrated.env.linux": {},
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.mouseWheelZoom": true,
+  "terminal.integrated.profiles.windows": {
+    "Command Prompt": {
+      "args": [],
+      "icon": "terminal-cmd",
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ]
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "laragon": {
+      "args": [
+        "."
+      ],
+      "path": "C:\\laragon\\bin\\cmder\\cmder.bat"
+    },
+    "PowerShell": {
+      "icon": "terminal-powershell",
+      "source": "PowerShell"
+    }
+  },
+  "terminal.integrated.smoothScrolling": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.suggest.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
+  "window.confirmBeforeClose": "never",
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#6200ff",
+    "editorBracketHighlight.foreground2": "#da70d6",
+    "terminal.background": "#000000"
+  },
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.editor.labelFormat": "medium",
+  "workbench.editorAssociations": {
+    "*.xlsx": "default"
+  },
+  "workbench.experimental.share.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.list.smoothScrolling": true,
+  "workbench.settings.applyToAllProfiles": [
+    "editor.codeLensFontFamily",
+    "workbench.colorCustomizations"
+  ],
+  "workbench.sideBar.location": "right",
+  "github.copilot.chat.localeOverride": "en"
+}
