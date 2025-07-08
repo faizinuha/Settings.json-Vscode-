@@ -1,0 +1,29 @@
+ // Background
+  "background.fullscreen": {
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/755/942/326/genshin-impact-yae-miko-genshin-impact-anime-girls-anime-pink-hair-hd-wallpaper-preview.jpg"
+    ],
+    "opacity": 0.08,
+    "position": "center",
+    "size": "cover",
+    "quality": "4K"
+  },
+  
+  "background.sidebar"  : {
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/265/1024/934/genshin-impact-yae-miko-genshin-impact-anime-girls-hd-wallpaper-preview.jpg"
+    ],
+    "opacity": 0.08,
+    "position": "center",
+    "size": "cover",
+    "quality": "4K"
+  },
+  "background.editor": {
+    "images": [
+      "https://c4.wallpaperflare.com/wallpaper/265/1024/934/genshin-impact-yae-miko-genshin-impact-anime-girls-hd-wallpaper-preview.jpg"
+    ],
+    "opacity": 0.08,
+    "position": "center",
+    "size": "cover",
+    "quality": "4K"
+  },
